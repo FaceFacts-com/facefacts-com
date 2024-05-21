@@ -1,7 +1,7 @@
 ### Merhabalar 👋
 Bu organizasyon Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü Yazılım Mühendisliği dersi dönem projesi için oluşturulmuştur.
 
-# FaceFacts🍀
+# FaceFacts🌿
 Kozmetikler
 
 ![Demo Linki]() :green_heart:
@@ -13,10 +13,10 @@ seçme konusunda bilinçli kararlar alabilirler. Bu şekilde, cilt sağlığın�
 doğru ürünleri tercih etme konusunda kullanıcılara güven vermek
 amaçlanmaktadır.
 
-## Teknolojiler 🧩
-- Frontend: React.js
-- Backend: Node.js
-- Veritabanı: MongoDB
+## Teknolojiler 
+📍 Frontend: React.js
+📍 Backend: Node.js
+📍 Veritabanı: MongoDB
 
 
 ## Özellikler ✨
@@ -43,8 +43,7 @@ Bu, kullanıcıların geri bildirimlerini kolayca iletebilmelerini sağlar ve pl
 
 Destek ve sponsor olmak için bizimle iletişime geçebilir veya organizasyon üzerinden ekibe dahil olup yazlım desteği verebilirsiniz.!
 
-:recycle: "Cilt sağlığınızı bilinçli seçimlerle koruyun: FaceFacts ile gerçek güzellik!" :recycle:
-
+🌿 "Cilt sağlığınızı bilinçli seçimlerle koruyun: FaceFacts ile gerçek güzellik!" 🌿
 ## Geliştiriciler ve İletişim  👩‍💻
 
 - **Selcan Çelikel** [@selcancelikel](https://github.com/selcancelikel) (Full Stack Developer)
